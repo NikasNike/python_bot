@@ -1,0 +1,17 @@
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\bin\Debug\net6.0\erok.exe
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\bin\Debug\net6.0\erok.deps.json
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\bin\Debug\net6.0\erok.runtimeconfig.json
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\bin\Debug\net6.0\erok.dll
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\bin\Debug\net6.0\erok.pdb
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.csproj.AssemblyReference.cache
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.AssemblyInfoInputs.cache
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.AssemblyInfo.cs
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.csproj.CoreCompileInputs.cache
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.dll
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\refint\erok.dll
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.pdb
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.genruntimeconfig.cache
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\ref\erok.dll
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nikita Mashkin\Desktop\BOt_load\erok\obj\Debug\net6.0\erok.csproj.CopyComplete
